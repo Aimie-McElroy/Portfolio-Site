@@ -1,0 +1,44 @@
+Text {
+    color: rgb(240, 244, 248);
+    font-size: 15px;
+        font-weight: bold;
+        transition: 0.5s;
+    }
+    
+    body{
+        background-color: antiquewhite;  
+  }
+    nav{
+        height:1200px;
+        width:220px;
+        float:left;
+        padding: 5px;
+        line-height:30px;
+        }
+        style
+    a:link {
+      color: rgb(17, 53, 73);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:visited {
+      color: rgb(39, 92, 189);
+      background-color: transparent;
+      text-decoration: none;
+    }
+    
+    a:hover {
+      color: rgb(124, 7, 178);
+      background-color: transparent;
+      text-decoration: underline;
+    }
+    
+    header{
+        text-align: center;
+    }
+    
+    footer{
+    text-align: center;
+    margin-right: 200px;
+    }
