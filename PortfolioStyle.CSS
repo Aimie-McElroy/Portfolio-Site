@@ -6,7 +6,7 @@ Text {
     }
     
     body{
-        background-color: antiquewhite;  
+        background-color: rgb(169, 220, 238);  
   }
     nav{
         height:1200px;
@@ -42,3 +42,11 @@ Text {
     text-align: center;
     margin-right: 200px;
     }
+    img {
+      max-width: 50%;
+      height: auto;
+      margin-right:160px;
+    }
+   img{
+   text-align:left ;
+   }
